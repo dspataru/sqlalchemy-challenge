@@ -1,13 +1,13 @@
 # sqlalchemy-challenge - Honolulu, Hawaii Trip Planning
 
-![hawaii_image]()
+![hawaii_image](https://github.com/dspataru/sqlalchemy-challenge/blob/main/SurfsUp/images/hawaii.jpg)
 
 ## Table of Contents
-* [Background]()
-* [Analyze and Explore the Climate Data]()
-** [Precipitation Analysis]()
-** [Station Analysis]()
-* [Designing the Climate App]()
+* [Background](https://github.com/dspataru/sqlalchemy-challenge/tree/main#background)
+* [Analyze and Explore the Climate Data](https://github.com/dspataru/sqlalchemy-challenge/tree/main#analyze-and-explore-the-climate-data)
+* [Precipitation Analysis](https://github.com/dspataru/sqlalchemy-challenge/tree/main#precipitation-analysis)
+* [Station Analysis](https://github.com/dspataru/sqlalchemy-challenge/tree/main#station-analysis)
+* [Designing the Climate App](https://github.com/dspataru/sqlalchemy-challenge/tree/main#designing-the-climate-app)
 
 ## Background
 
